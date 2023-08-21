@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="container">
+    <div class="sidebar"></div>
+  </div>
+  <main class="content">
+    <section class="hero">
+      <div class="hero-content">
+        <center>
+          <h1>kartun</h1>
+        </center>
+        <br/>
+        <center>
+           <h2>the minions</h2>
+        </center>
+        <a href="" class="action-btn">minion</a>
+        <br/><br/><br/>
+        <center>
+           <img width="200px" src="Minionssss.jpg" alt="">
+        </center>
+       <center>
+          <h2>biografi</h2>
+       </center>
+        <br>
+        <p>Minions adalah sebuah film komedi animasi komputer 3D, Amerika Serikat yang tayang pada tahun 2015 dan merupakan prekuel /spin-off dari Despicable Me dan Despicable Me 2.</p>
+&copy;Revia aditia agustin_SMKN1BLADO
+      </div>
+    </section>
+  </main>
+</body>
+</html>
